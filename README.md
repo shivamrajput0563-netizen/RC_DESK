@@ -99,7 +99,6 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-*(Note: Never commit hardcoded API keys. Set them as environment variables.)*
 
 ### 3. Set Environment Variables (IntelliJ / Terminal)
 * `GEMINI_API_KEY`: Your Google AI Studio API key
